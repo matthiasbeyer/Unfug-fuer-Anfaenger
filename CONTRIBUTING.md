@@ -1,3 +1,53 @@
-# Contributing
+# Zum Buch beitragen {#contrib}
 
-_to be written_
+Im Folgenden wird kurz erklärt, wie man zu diesem Buch beitragen kann.
+Folgende Werkzeuge sind dazu nötig:
+
+1. Ein Texteditor wie zum Beispiel vim, emacs, kate, geany, Notepad++, etc.
+1. git
+1. Ein github-Account
+
+Folgende Pakete sind nötig um das Buch lokal zu erstellen:
+
+1. pandoc
+1. pandoc-citeproc
+1. pandoc-crossref
+1. texlive
+1. mscgen
+1. R
+1. plantuml
+1. GNU make
+1. Python-Pakete:
+    1. Pillow==3.2.0
+    1. actdiag==0.5.4
+    1. blockdiag==1.5.3
+    1. funcparserlib==0.3.6
+    1. nwdiag==1.0.4
+    1. pandocfilters==1.3.0
+    1. pygraphviz==1.3.1
+    1. seqdiag==0.9.5
+    1. webcolors==1.5
+    1. pygraphviz
+
+Diese können über den Paketmanager der Distribution bezogen werden.
+
+## Inhalt ändern {#contrib:aendern}
+
+### Schreibstil {#contrib:aendern:stil}
+
+### Bilder erstellen {#contrib:aendern:bilder}
+
+### Referenzen {#contrib:aendern:referenzen}
+
+### Anhang {#contrib:aendern:anhang}
+
+## Aussehen ändern {#contrib:look}
+
+## Die Änderungen einschicken {#contrib:einschicken}
+
+## Kleine Änderungen {#contrib:kleine}
+
+Wenn nur kleine Änderungen am Dokument vorgenommen werden, ...
+
+## Lizensierung {#contrib:license}
+
