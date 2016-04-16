@@ -17,17 +17,7 @@ Folgende Pakete sind nötig um das Buch lokal zu erstellen:
 1. R
 1. plantuml
 1. GNU make
-1. Python-Pakete:
-    1. Pillow==3.2.0
-    1. actdiag==0.5.4
-    1. blockdiag==1.5.3
-    1. funcparserlib==0.3.6
-    1. nwdiag==1.0.4
-    1. pandocfilters==1.3.0
-    1. pygraphviz==1.3.1
-    1. seqdiag==0.9.5
-    1. webcolors==1.5
-    1. pygraphviz
+1. Python-Pakete: Siehe `requirements.txt`
 
 Diese können über den Paketmanager der Distribution bezogen werden.
 
